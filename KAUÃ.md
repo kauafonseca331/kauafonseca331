@@ -1,0 +1,3 @@
+# KAUÃ FONSECA VIEIRA
+
+## Bem vindo ao meu portfólio, meu nome é Kauã Fonseca Vieira e gosto muito de esportes, frequento academia cinco vezes por semana.
