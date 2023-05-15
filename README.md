@@ -15,9 +15,6 @@ Meu nome é Kauã Fonseca Vieira, atualmente estou estudando na escola S sesi se
 ### 🔝 Repositórios
 ![](https://github-contributor-stats.vercel.app/api?username=kauafonseca331&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Meme kkj
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kauafonseca331&icon=0&color=0)](https://visitcount.itsvg.in)
 
