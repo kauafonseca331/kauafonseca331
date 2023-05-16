@@ -12,9 +12,6 @@ Meu nome é Kauã Fonseca Vieira, atualmente estou estudando na escola S sesi se
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kauafonseca331&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kauafonseca331&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Repositórios
-![](https://github-contributor-stats.vercel.app/api?username=kauafonseca331&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kauafonseca331&icon=0&color=0)](https://visitcount.itsvg.in)
 
